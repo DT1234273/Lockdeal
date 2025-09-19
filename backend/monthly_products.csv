@@ -1,0 +1,21 @@
+name,price,unit,image_url,seller_id
+Milk,60.00,liter,/images/sample-product.svg,2
+Bread,40.00,loaf,/images/sample-product.svg,2
+Eggs,70.00,dozen,/images/sample-product.svg,2
+Rice,120.00,kg,/images/sample-product.svg,2
+Wheat Flour,150.00,kg,/images/sample-product.svg,2
+Sugar,50.00,kg,/images/sample-product.svg,2
+Salt,20.00,kg,/images/sample-product.svg,2
+Cooking Oil,180.00,liter,/images/sample-product.svg,2
+Lentils (Dal),90.00,kg,/images/sample-product.svg,2
+Potatoes,30.00,kg,/images/sample-product.svg,2
+Onions,25.00,kg,/images/sample-product.svg,2
+Tomatoes,40.00,kg,/images/sample-product.svg,2
+Tea Powder,100.00,packet,/images/sample-product.svg,2
+Coffee,80.00,packet,/images/sample-product.svg,2
+Soap,35.00,bar,/images/sample-product.svg,2
+Detergent,120.00,kg,/images/sample-product.svg,2
+Toothpaste,60.00,tube,/images/sample-product.svg,2
+Shampoo,90.00,bottle,/images/sample-product.svg,2
+Biscuits,30.00,packet,/images/sample-product.svg,2
+Spices,75.00,packet,/images/sample-product.svg,2

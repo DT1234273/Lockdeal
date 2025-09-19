@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f8f9fa" rx="10" ry="10"/>
+  
+  <!-- Product Icon -->
+  <g transform="translate(50, 40)">
+    <!-- Shopping Bag -->
+    <path d="M80 30H20L10 100H90L80 30Z" fill="#e9ecef" stroke="#adb5bd" stroke-width="2"/>
+    <path d="M35 30V20C35 8.954 43.954 0 55 0H45C56.046 0 65 8.954 65 20V30" stroke="#adb5bd" stroke-width="2" fill="none"/>
+    
+    <!-- Product Items -->
+    <circle cx="35" cy="50" r="10" fill="#ced4da"/>
+    <circle cx="65" cy="50" r="10" fill="#ced4da"/>
+    <rect x="30" y="70" width="40" height="15" rx="2" ry="2" fill="#ced4da"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">Product Image</text>
+</svg>
