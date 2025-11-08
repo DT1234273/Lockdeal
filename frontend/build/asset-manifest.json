@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.01c925be.css",
-    "main.js": "/static/js/main.13847c2b.js",
-    "index.html": "/index.html",
-    "main.01c925be.css.map": "/static/css/main.01c925be.css.map",
-    "main.13847c2b.js.map": "/static/js/main.13847c2b.js.map"
+    "main.css": "/Lockdeal/static/css/main.01c925be.css",
+    "main.js": "/Lockdeal/static/js/main.13847c2b.js",
+    "index.html": "/Lockdeal/index.html",
+    "main.01c925be.css.map": "/Lockdeal/static/css/main.01c925be.css.map",
+    "main.13847c2b.js.map": "/Lockdeal/static/js/main.13847c2b.js.map"
   },
   "entrypoints": [
     "static/css/main.01c925be.css",
